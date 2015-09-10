@@ -1,2 +1,3 @@
-# graylog-mpproxy-log4jsnode
-GELF support for log4js
+This is a Marketplace placeholder for a community GELF library that has not been submitted by the user.
+
+Follow this link to reach the GELF library: https://github.com/nomiddlename/log4js-node
